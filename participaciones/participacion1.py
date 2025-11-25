@@ -13,5 +13,3 @@ print(f"El perimetro del rectangulo es: {perimetro}")
 print(f"La altura del rectangulo es: {altura}")
 print(f"La base del rectangulo es: {base}")
 
-
-

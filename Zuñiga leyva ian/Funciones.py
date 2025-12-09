@@ -23,3 +23,5 @@ def ordenar_estudiantes_por_promedio(lista_estudiantes):
     for estudiante in lista_ordenada:
         print(f"{estudiante['nombre']} {estudiante['apellido']} - Promedio: {estudiante['promedio']}")
 
+
+
